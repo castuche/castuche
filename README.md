@@ -21,7 +21,7 @@
     <h3 align="center">WanderBasket</h3>
     <div align="center">
       <a href="https://mellifluous-marzipan-31783e.netlify.app/" target="blank">
-        <img src="https://res.cloudinary.com/dmgp9npy0/image/upload/v1709115912/wanderbasket.png" height="200" alt="wanderbasket app">
+        <img src="https://res.cloudinary.com/dmgp9npy0/image/upload/f_auto,q_auto/wanderbasket2" height="200" alt="wanderbasket app">
       </a>
       <p>
         <a href="https://github.com/aliadossani/triplannerFE" target="_blank"><img src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
