@@ -21,7 +21,7 @@
     <h3 align="center">WanderBasket</h3>
     <div align="center">
       <a href="https://mellifluous-marzipan-31783e.netlify.app/" target="blank">
-        <img src="https://res.cloudinary.com/dacltsvln/image/upload/v1681284510/Logo_Re-Usa_x6tfey.png" width="300" alt="wanderbasket app">
+        <img src="https://res.cloudinary.com/dmgp9npy0/image/upload/v1709115912/wanderbasket.png" height="200" alt="wanderbasket app">
       </a>
       <p>
         <a href="https://github.com/aliadossani/triplannerFE" target="_blank"><img src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
@@ -35,7 +35,7 @@
     <h3 align="center">The Doggo Game</h3>
     <div align="center">                                       
       <a href="https://castuche.github.io/doggo-game/" target="_blank">
-        <img src="https://res.cloudinary.com/dacltsvln/image/upload/v1681284600/logoTalentMatch_nxreo4.png" width="300" alt="Doggo Game"></a>
+        <img src="https://res.cloudinary.com/dmgp9npy0/image/upload/v1709115690/doggogame.png" height="200" alt="Doggo Game"></a>
       <p>
         <a href="https://github.com/castuche/doggo-game" target="_blank"><img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
       </p>
@@ -47,7 +47,7 @@
   <td width="30%">
     <h3 align="center">The Fridge</h3>
     <div align="center">
-      <a href="https://dazzling-nougat-f934c6.netlify.app/" target="_blank"><img src="https://res.cloudinary.com/dacltsvln/image/upload/v1681284510/Logo_Re-Usa_x6tfey.png" width="300" alt="Re-Usa"></a>
+      <a href="https://dazzling-nougat-f934c6.netlify.app/" target="_blank"><img src="https://res.cloudinary.com/dmgp9npy0/image/upload/v1709115847/fridge.png" height="200" alt="Re-Usa"></a>
       <p>
         <a href="https://github.com/KubraTY/The-Fridge" target="_blank"><img src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
         <a href="https://github.com/castuche/Frigde-json-server-backend" target="_blank"><img src="https://img.shields.io/badge/BACKEND-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
